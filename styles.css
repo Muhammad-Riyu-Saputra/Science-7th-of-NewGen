@@ -25,11 +25,9 @@
 
 .container-fluid-banner{
   background-image: url("fotbar.jpeg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   color: #fff;
-  padding-top: 13%;
+  padding-top: 20%;
   padding-bottom: 20%;
 }
 
